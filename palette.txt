@@ -1,0 +1,5 @@
+Vermelho: #DF0023
+Verde Escuro: #226F54
+Verde Claro: #87C38F
+Creme: #F4F0BB
+Marrom: #43291F
